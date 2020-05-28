@@ -16,7 +16,7 @@ After each level, the snake should grow and move faster to increase difficulty.
 You can either set a limit on the number of levels or pick a level beyond which conditions become constant. 
 The player should level up if his snake eats a certain number of berries. 
 
-#Display 
+# Display.
 Display the rules for your game like keys to press and level up conditions at the start of the game and  a game over alongsides instructions to restart when the user uses up his lives.
 
 Yes, the game should be able to restart without re-running the app. 
